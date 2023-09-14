@@ -25,8 +25,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: Currently exploring AI and prompt engineering.
 -  🧠 Intrigued by Neuroscience and Psychology research.
 - :zap: For self-care, I enjoy watercolor painting🎨 nature🌲 and a good book📚.  
-- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-kayladayguimont@gmail.com-green?style=flat&logo=Email&logoColor=white)](kayladayguimont@gmail.com)
-
 
 ---
 

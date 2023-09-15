@@ -1,17 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
      <div id="badges">
-        <a href="your-linkedin-URL">
+        <a href="https://www.linkedin.com/in/-kayla/">
           <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="your-youtube-URL">
-          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-        </a>
-        <a href="your-twitter-URL">  
-          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        <a href="https://kayla-day.github.io/">  
+          <img src="https://img.shields.io/badge/portfolio-orange?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages Portfolio Website Badge"/>
         </a>     
      </div>
-        <img src="https://komarev.com/ghpvc/?username=kayla-day&style=flat-square&color=blue" alt=""/>
+        <img src="https://komarev.com/ghpvc/?username=kayla-day&style=flat-square&color=green" alt=""/>
          <h1>hey there
            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
          </h1>
